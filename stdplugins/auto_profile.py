@@ -20,7 +20,7 @@ async def _(event):
     while True:
         DMY = time.strftime("%d.%m.%Y")
         HM = time.strftime("%H:%M:%S")
-        bio = f"📅 {DMY} | KNOWLEDGE HAS A PRICE | ⌚️ {HM}"
+        bio = f"📅 {DMY} | AnonymousD3061 IS A HANDSOME BOY | ⌚️ {HM}"
         logger.info(bio)
         try:
             await borg(functions.account.UpdateProfileRequest(  # pylint:disable=E0602
@@ -45,7 +45,7 @@ async def _(event):
     while True:
         DM = time.strftime("%d.%m.%y")
         HM = time.strftime("%H:%M")
-        name = f"⌚{HM}|💀DIEANA💀|📅{DM}"
+        name = f"⌚{HM}|🚶‍♂️AnonymousD3061🚶‍♂️|📅{DM}"
         logger.info(name)
         try:
             await borg(functions.account.UpdateProfileRequest(  # pylint:disable=E0602
