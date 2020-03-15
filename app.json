@@ -1,14 +1,14 @@
 {
-  "name": "PornHub",
-  "description": "Only For Legends..... By : @kirito6969",
+  "name": "chillibot",
+  "description": "Only For Legends..... By : @leobrownlee",
   "logo": "https://telegra.ph/file/18cea3a9a7d9b3261dc1a.jpg",
   "keywords": [
-    "sex",
-    "porn",
-    "xxx",
-    "dick",
-    "vagina",
-    "boobs"
+    "love",
+    "care",
+    "respect",
+    "treet",
+    "thanks",
+    "welcome"
   ],
   "repository": "https://gitlab.com/SpEcHiDe/UniBorg",
   "website": "https://telegram.dog/UniBorg",
@@ -126,11 +126,6 @@
       "description": "specify command handler that should be used for the plugins. This should be a valid \"regex\" pattern",
       "required": false
     },
-    "SUDO_USERS": {
-      "description": "Makes Your Account Stable.",
-      "value": "138312364",
-      "required": false
-    },
     "TZ": {
       "description": "set your default time zone for time related features to work correctly. Value should match the string here: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones",
       "value": "Asia/Kolkata",
@@ -205,11 +200,6 @@
     "TEMP_DIR": {
       "description": ":p",
       "value": "Env",
-      "required": false
-    },
-    "UB_BLACK_LIST_CHAT": {
-      "description": "haha",
-      "value": "-100",
       "required": false
     },
     "TELE_GRAM_2FA_CODE": {
